@@ -3,4 +3,4 @@ A common bookmarklet serializer I use is https://caiorss.github.io/bookmarklet-m
 # TabMob/
 Allowing tab mobbing (I pranked my teachers with this once! It was fun!)
 # Use notes
-Try to follow these notes whenever possible.
+Try to follow these notes whenever possible.# TestGitCommits
